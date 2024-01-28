@@ -1,0 +1,120 @@
+.topnav {
+    background-color: #916e3a;
+    overflow: hidden;
+}
+
+
+/* Style the links inside the navigation bar */
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+/* Change the color of links on hover */
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+/* Add a color to the active/current link */
+
+.topnav a.active {
+    background-color: #6d7378;
+    color: white;
+}
+
+
+/* .solanusPortrait {
+    display: block;
+    width: 35%;
+    float: left;
+    border-style: ridge;
+    border-style: solid;
+    border-color: #824028;
+    border-width: 20px;
+    margin-left: 8.79%;
+    margin-right: auto;
+} */
+
+h1 {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    text-align: center;
+    color: white;
+    padding-right: 2px;
+    -webkit-text-stroke: .001px white;
+    font-size: 70px;
+    /* background: linear-gradient(to left, rgba(37,61,87,.7) 70%, #253d57 80%); */
+}
+
+h3 {
+    text-align: left;
+    text-justify: inter-word;
+    padding: 30px;
+    font-size: 1.618rem;
+    font-weight: 400;
+    margin: 0 0 .8rem 0;
+}
+
+
+/* body {
+    background-color: #a39341;
+    transform-style: preserve-3d;
+} */
+
+
+/* 
+p {
+    margin: 0 0 1rem 0;
+}
+
+.bio {
+    display: block;
+    background-color: #a39341;
+    border-style: solid;
+    border-color: #824028;
+    /* border-width: 20px;
+  width: 55%; */
+
+
+/* section {
+    padding: 20px 35px;
+    transform width: 55%;
+} */
+
+
+/* main {
+    display: block;
+    overflow-x: hidden;
+    /* height: 100vh; */
+
+
+/* max-height: 50%; */
+
+
+/* max-width: 85%;
+perspective: 1px;
+perspective-origin: center top;
+
+} */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* header {
+  height: 2vh;
+  transform-origin: center top;
+  transform: translateZ(-1px) scale(2.03);
+  background-size: 10%;
+} */
