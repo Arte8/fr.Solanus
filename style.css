@@ -1,7 +1,7 @@
 .topnav {
-    background-color: #916e3a;
+    background-color: darkslategrey;
     overflow: hidden;
-    width: 850px;
+    width: 100%;
 }
 
 
@@ -110,6 +110,7 @@ perspective-origin: center top;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 50%;
 }
 
 
